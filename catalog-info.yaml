@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: glue-etl
+  annotations:
+    github.com/project-slug: codemonk14/glue-etl
+spec:
+  type: other
+  lifecycle: unknown
+  owner: codemonk14
